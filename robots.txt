@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://qadcasdauh-wq.github.io/sitemap.xml
+Sitemap: https://caihuangtao.github.io/sitemap.xml
